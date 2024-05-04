@@ -1,0 +1,32 @@
+.app-sidebar .nav{
+    background-color: #DBA979;
+}
+.nav-sidebar{
+    height: 100vh;
+}
+.nav-sidebar a{
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+}
+.sidebar-design a:hover{
+    color: #ffcf91;
+}
+
+/* HOME */
+.home .row{
+    background-color: #ECCA9C;
+}
+.home .row label{
+    font-size: 14px;
+    color: #585858;
+}
+.home .row h5{
+    color: #3b3b3b;
+    font-size: 18px;
+    /* font-weight: 500; */
+}
+.index-barang .btn-tambah{
+    background-color: #DBA979;
+    color: white;
+}
